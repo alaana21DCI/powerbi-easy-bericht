@@ -40,7 +40,7 @@ Der Bericht enthält:
 - Gewinn kann je Region/Produkt negativ sein und sollte separat beobachtet werden.
 
 ## Dateien & Struktur
-- `report/dashboard.png` – Screenshot des Berichts
+- `report/dashboard.JPG` – Screenshot des Berichts
 - `report/dashboard.pdf` – PDF Export (optional)
 - `data/` – Datendatei (Excel/CSV; sample/anonymisiert)
 - `pbix/` – Power BI Datei (optional, falls keine sensiblen Daten und nicht zu groß)
@@ -55,6 +55,7 @@ Der Bericht enthält:
 - Zeitdimension hinzufügen (Datum) für Trends (MoM/YoY)
 - Kleine DAX Measures ergänzen (z.B. Profit Margin %)
 - Tooltips/Drillthrough Seiten für Produkt-Details
+
 
 
 
