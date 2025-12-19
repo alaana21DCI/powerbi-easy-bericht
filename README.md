@@ -31,8 +31,12 @@ Der Bericht enthält:
 - **Balkendiagramm:** Gewinn nach Region
 - **Karte:** Städte (z.B. Bubble-Größe nach Umsatz)
 
-## Screenshot
-![Power BI Dashboard](report/dashboard.JPG)
+## Vorschau
+### Screenshot
+![Dashboard](report/dashboard.JPG)
+
+### PDF (zum schnellen Anschauen)
+📄 **PDF-Version:** [dashboard.pdf](report/dashboard.pdf)
 
 ## Beispiel-Insights (aus dem Bericht ableitbar)
 - Umsatzanteile unterscheiden sich stark zwischen den Regionen.
@@ -40,8 +44,7 @@ Der Bericht enthält:
 - Gewinn kann je Region/Produkt negativ sein und sollte separat beobachtet werden.
 
 ## Dateien & Struktur
-- `report/dashboard.JPG` – Screenshot des Berichts
-- `report/dashboard.pdf` – PDF Export (optional)
+- `report/` – Screenshot & PDF Export
 - `data/` – Datendatei (Excel/CSV; sample/anonymisiert)
 - `pbix/` – Power BI Datei (optional, falls keine sensiblen Daten und nicht zu groß)
 
@@ -55,6 +58,7 @@ Der Bericht enthält:
 - Zeitdimension hinzufügen (Datum) für Trends (MoM/YoY)
 - Kleine DAX Measures ergänzen (z.B. Profit Margin %)
 - Tooltips/Drillthrough Seiten für Produkt-Details
+
 
 
 
