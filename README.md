@@ -32,7 +32,7 @@ Der Bericht enthält:
 - **Karte:** Städte (z.B. Bubble-Größe nach Umsatz)
 
 ## Screenshot
-![Power BI Dashboard](report/dashboard.png)
+![Power BI Dashboard](dashboard.png)
 
 ## Beispiel-Insights (aus dem Bericht ableitbar)
 - Umsatzanteile unterscheiden sich stark zwischen den Regionen.
@@ -55,3 +55,4 @@ Der Bericht enthält:
 - Zeitdimension hinzufügen (Datum) für Trends (MoM/YoY)
 - Kleine DAX Measures ergänzen (z.B. Profit Margin %)
 - Tooltips/Drillthrough Seiten für Produkt-Details
+
